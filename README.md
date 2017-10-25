@@ -1,2 +1,2 @@
 #iniciando no github
-repositorio
+projeto agenda academica
